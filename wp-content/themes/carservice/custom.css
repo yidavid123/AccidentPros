@@ -157,6 +157,13 @@ transition: max-height 0.2s ease-out;
     color: blue !important;
 }
 
+#prestige-tag {
+    font-size: 14px;
+    font-weight: 400;
+    margin-top:0;
+    padding-top:0;
+}
+
 /* DESKTOPS AND TABLETS */
 @media only screen and (min-width: 600px) {
     .services-list li {
