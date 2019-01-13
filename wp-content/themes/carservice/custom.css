@@ -181,11 +181,6 @@ transition: max-height 0.2s ease-out;
         max-width: 32%;
         padding: .5%;
     }
-    .vc_single_image-img, .wp-post-image {
-        min-height: 300px;
-        max-height: 300px;
-    }
-
 }
 
 /* TABLETS */
