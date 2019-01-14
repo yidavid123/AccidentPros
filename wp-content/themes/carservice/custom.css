@@ -180,6 +180,12 @@ transition: max-height 0.2s ease-out;
     max-height: 200px;
 }
 
+.shaped {
+    background-color: white;
+    padding: 24px;
+    border-radius: 50%;
+}
+
 /* DESKTOPS AND TABLETS */
 @media only screen and (min-width: 600px) {
     .services-list li {
