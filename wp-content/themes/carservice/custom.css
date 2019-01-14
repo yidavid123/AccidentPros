@@ -102,11 +102,11 @@
 }
 
 .success_msg {
-    background-color:;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 15vh;
+    height: 17vh;
+    text-align: center;
 }
 
 .accordionz {
@@ -173,6 +173,11 @@ transition: max-height 0.2s ease-out;
 
 .socials {
     color: whitesmoke !important;
+}
+
+.small-abt {
+    min-height: 200px;
+    max-height: 200px;
 }
 
 /* DESKTOPS AND TABLETS */
